@@ -1,7 +1,7 @@
 ## Olá! Sou a Priscila Mattos 
 <hr>
 
-💻 Desenvolvedora web
+💻 Desenvolvedora web <br>
 📚 Aprendendo a cada dia
 
 <div>
