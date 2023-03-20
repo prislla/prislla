@@ -1,7 +1,7 @@
 ## Olá! Bem vindo! Sou a Priscila Mattos
 
 
-💻 Desenvolvedora web em construção <br>
+💻 Desenvolvedora web <br>
 📚 Aprendendo e evoluindo a cada dia <br>
 🎓 Me formei no curso de Programação Web pelo Senac Rj, num projeto conjunto com a Prefeitura do Rj chamado Mulheres.Tech, visando a inclusão de mulheres na área tecnológica. Estou amando esse mundo, com certeza me encontrei na programação!
 
